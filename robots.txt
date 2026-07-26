@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-nprzqj.haybaleman.co.nz/sitemap.xml
